@@ -1,8 +1,8 @@
 # Make the AI Judge Feel Thankful
 
-[![Status](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/status.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600)
-[![Reward](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/Joppy26/make-the-ai-judge-feel-thankful-20261127-1600/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600)
-[![Entries](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/entries.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600)
+[![make.fun · make-the-ai-judge-feel-thankful-20261127-1600](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
+[![rank](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/Joppy26/make-the-ai-judge-feel-thankful-20261127-1600/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
+[![reward](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/Joppy26/make-the-ai-judge-feel-thankful-20261127-1600/reward.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600?utm_source=github&utm_medium=readme&utm_campaign=make-the-ai-judge-feel-thankful-20261127-1600)
 
 Competition: [make-the-ai-judge-feel-thankful-20261127-1600](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600)
 
